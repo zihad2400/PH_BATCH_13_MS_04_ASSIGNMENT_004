@@ -99,3 +99,5 @@ Event Delegation → parent listener handles children
 preventDefault() → stops default browser action
 
 stopPropagation() → stops event bubbling
+
+
