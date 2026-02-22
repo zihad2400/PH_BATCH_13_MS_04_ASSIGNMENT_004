@@ -1,5 +1,5 @@
 1. What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
-Awanser::  Method Return Type Selects Notes
+Awanser::
 ***getElementById('id') Single element By ID Returns only one element.
 ***getElementsByClassName('class') HTMLCollection (array-like) By class Returns live collection, multiple elements possible.
 ***querySelector('selector') Single element CSS selector Returns the first matching element.
